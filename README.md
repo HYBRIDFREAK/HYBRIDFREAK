@@ -5,7 +5,7 @@
   </li>
   <li>
    Along with coding I like listening to Songs, playing games and watching anime or web series sometimes.
-  </li>v align
+  </li>
   <li>
     You can follow me on my social media if you like uff pain
   </li>
