@@ -19,4 +19,4 @@
   # FREAK GITHUB
   <img src='https://github-readme-stats.vercel.app/api?username=HYBRIDFREAK&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true'
        height=300>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HYBRIDFREAK&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true' height=300>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HYBRIDFREAK&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true' height=150>
