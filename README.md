@@ -13,4 +13,4 @@
   # LIVING FREAK 
 <div align = left> 
   <a href="https://t.me/TIMESOFFREAK"><img src=https://img.shields.io/badge/TIMESOFFREAK-00ccff?style=flat-square&logo=telegram&logoColor=red alt="" srcset=""</a>
-    <a href="https://www.instagram.com/freak_hybrid"<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black alt=" srcset="</a>
+    <a href="https://www.instagram.com/freak_hybrid/"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black alt=" srcset="</a>
