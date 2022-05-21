@@ -9,8 +9,7 @@
   <li>
     You can follow me on my social media if you like uff pain
   </li>
-  
-# LIVING FREAK 
+  # LIVING FREAK 
 <div align = left> 
   <a href="https://t.me/TIMESOFFREAK"><img src=https://img.shields.io/badge/TIMESOFFREAK-00ccff?style=for-the-badge&logo=telegram&logoColor=red alt="" srcset=""</a>
     <a href="https://www.instagram.com/freak_hybrid/"><img src=https://img.shields.io/badge/HYBRIDFREAK-E4405F?style=for-the-badge&logo=instagram&logoColor=black alt=" srcset="</a>
