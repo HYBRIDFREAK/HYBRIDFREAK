@@ -13,6 +13,6 @@
   # LIVING FREAK 
 <div align = left> 
   <a href="https://t.me/TIMESOFFREAK"><img src=https://img.shields.io/badge/TIMESOFFREAK-00ccff?style=flat-square&logo=telegram&logoColor=red alt="" srcset=""</a>
-    <a href="https://www.instagram.com/freak_hybrid/"><img src=https://img.shields.io/badge/HYBRID FREAK-E4405F?style=for-the-badge&logo=instagram&logoColor=black alt=" srcset="</a>
-<a href="https://www.twitter.com/HybridFreakk"><img src=https://img.shields.io/badge/HYBRID FREAK-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=" srcset="</a>
+    <a href="https://www.instagram.com/freak_hybrid/"><img src=https://img.shields.io/badge/HYBRIDFREAK-E4405F?style=for-the-badge&logo=instagram&logoColor=black alt=" srcset="</a>
+<a href="https://www.twitter.com/HybridFreakk"><img src=https://img.shields.io/badge/HYBRIDFREAK-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=" srcset="</a>
   
